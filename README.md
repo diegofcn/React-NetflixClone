@@ -1,3 +1,19 @@
+# Netflix Clone React
+
+![Image](/netflix.png)
+
+## Project Overview
+
+Netflix Clone built with React JS and TailwindCSS. It uses the TheMovieDB API. You can Sign Up and create an account to make a watchlist with movies you want to watch. To achive this I used Firebase for the Backend.
+
+
+### Tools I used
+
+ReactJS, CSS, TailwindCSS, Firebase, TheMovieDB API
+
+### Live Link
+[Click here](https://new-netflixclone.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
